@@ -1,0 +1,11 @@
+{
+  "name": "jsfinalassessment",
+  "version": "1.0.0",
+  "description": "Code for Metacrafters JavaScript Final Assessment.",
+  "main": "jsFinalAssessment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umar khan",
+  "license": "ISC"
+}
